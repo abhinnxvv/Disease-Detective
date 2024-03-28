@@ -1,4 +1,4 @@
-# Disease Diagnosis Chatbot
+# Disease Diagnosis Chatbot - Disease Detective
 
 This is a medical diagnosis chatbot that helps users identify possible diseases based on their symptoms. The chatbot is trained using machine learning models such as K-Nearest Neighbors (KNN) and Decision Trees (DT).
 
