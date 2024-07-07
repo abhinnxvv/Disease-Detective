@@ -41,6 +41,3 @@ The chatbot performs the following tasks:
 - Predicts possible diseases using machine learning models.
 - Provides descriptions, severity assessment, and precautionary measures for identified diseases.
 - Allows for multiple interactions to refine the diagnosis.
-
-## Note
-This README assumes that the application is run locally. Make sure to update the file paths and configurations as necessary if deploying it in a different environment.
