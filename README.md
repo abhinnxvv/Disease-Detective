@@ -2,6 +2,8 @@
 
 Disease Detective is a medical diagnosis chatbot that helps users identify possible diseases based on their symptoms. The chatbot is trained using machine learning models such as K-Nearest Neighbors (KNN) and Decision Trees (DT).
 
+https://github.com/abhinnxvv/Disease-Detective/assets/92618378/27b97442-63a8-4c82-aacb-17c254a85aa8
+
 ## Table of Contents
 - [Usage](#usage)
 - [Dependencies](#dependencies)
